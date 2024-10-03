@@ -1,13 +1,6 @@
 body{
     background-color: black;
     color: white;
-}
-h1{
     text-align: center;
-}
-footer{
-    text-align: center;
-}
-header{
-    text-align: center;
+    /*made whole page centereed cause of looks, can change later when I wish to do so*/
 }
